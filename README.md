@@ -5,7 +5,6 @@ Click on the png file to see the Baishakhi Bangla Layout at a glance.
 Installation Process:
 1. first go to playstore of your android device and install the MultilingO keyboard https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en.
 2. Go to settings of the keyboard and add language (south asian> Bengali)
-3. Now copy the codes-
-
-Go to JSON tab, click on it and delete the existing codes. Now copy the codes from uploaded json file of Baishakhi and simply paste them to this section.
-Click on Apply! You are done!!
+3. Now go to this link and copy the whole codes- https://drive.google.com/file/d/13dKGvtAPIR_Atnpo9821QX8hnsCQrq1s/view?usp=sharing
+4. After copy,again open MultilingO keyboard, from settings> Layout> +DIY Go to JSON tab, click on it and delete the existing codes. Now copy the codes from uploaded json file of Baishakhi and simply paste them to this section.
+5. Click on Apply! You are done!!
