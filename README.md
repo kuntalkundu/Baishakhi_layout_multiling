@@ -6,41 +6,6 @@ Installation Process:
 1. first go to playstore of your android device and install the MultilingO keyboard https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en.
 2. Go to settings of the keyboard and add language (south asian> Bengali)
 3. Now copy the codes-
-{
-"title":"DYI-Baishakhi",
-"onScreen":{
-"main":[
-"১২৩৪৫৬৭৮৯০",
-"ডীেরটযুিোপ",
-"াসদতগ্জকল",
-"[SHIFT]ৈড়চৱবনম[DEL]",
-"[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
-],
 
-"sym":[
-"£¥€$₹^&*()№√÷",
-"~`{}%_-=|+§∷‡",
-"@[]#/\\'\"«»—‐–",
-"…<>!;:?‹›±.,",
-"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
-],
-
-"altGr":[
-"ˉˋˇ´¨৲ৗ﹐৺˘˜ˆ",
-"―∑ঐঋ®†ঊঈঔπ•·¡",
-"আষðৎ©ঃºঌ≠℥∞¿",
-"ʒΩ≈ৱþঞঁµ়.ং",
-"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
-],
-
-"shifted":[
-"!@#₹%^&*()",
-"ঢূএৃঠয়উইওফ",
-"অশধথঘহঝখ।",
-"[SHIFT]ৌঢ়ছৰভণঙ[DEL]",
-"[LOCK][ALTGR:[U+200D]][SPACE][][][SYM:[U+200C]][ENTER]"
-]
-}
-}
 Go to JSON tab, click on it and delete the existing codes. Now copy the codes from uploaded json file of Baishakhi and simply paste them to this section.
 Click on Apply! You are done!!
